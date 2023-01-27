@@ -8,9 +8,9 @@ Once downloaded the repository, user has to import the module
 from ion_vc-pykit import *
 ```
 ## Manual
-**split_vcf()** splits multi-allelic site variants 
-**scan_af()** detects and retains non-zero AF 
-**funco_vcf()** creates multiple VCF files for each multi-allelic sites
+**split_vcf()** splits multi-allelic site variants <br>
+**scan_af()** detects and retains non-zero AF <br>
+**funco_vcf()** creates multiple VCF files for each multi-allelic sites <br>
 
 ## Info and comments
 If you need help or you have comments and tips for improving vc-pykit, please send a mail to drgianluca.vozza@gmail.com or emab992@gmail.com
