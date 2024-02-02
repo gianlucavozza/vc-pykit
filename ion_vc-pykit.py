@@ -3,7 +3,7 @@
 Authors: G. Vozza, E. Bonetti
 v. 0.1
 
-This module: i) splits VCF files from Thermo Fisher;
+This module: i) splits VCF files from Torrent Variant Caller;
 ii) scans and retains only allele frequency > 0;
 iii) creates multiple VCF files to comply with funcotator
 '''
